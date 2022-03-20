@@ -1,20 +1,20 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
+      "name": "Abdinasir Yussuf",
       "titles": [ "Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/abditake/portfolio",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
+          "name": "Linkedin",
+          "url": "www.linkedin.com/in/abdinasir-y",
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "https://avatars.githubusercontent.com/u/76438529?s=40&v=4"
     },
     "skills": {
       "icons": [

@@ -11,107 +11,115 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "MadLibs",
+        "startDate": "2022",
+        "description": "webpage that takes user inputs from a series of prompts that generates a creative story from that input. This will solve the users boredom by engaging their brain in a nice story driven rpg. The user will get inspiration from exercising their creativity.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/main page final project.png",
+          "images/portfolio/animal-shelter/stored-stories-page.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "HTML 5",
+            "class": "devicon-html5-plain",
+            "level": "95"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
           },
+          
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
+            "name": "JavaScript",
             "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "level": "70"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Busmall",
+        "startDate": "2022",
+        "description": "I built a website called Bus-Mall . Generates random combination of pictures to choose from. Then it displays the total views and clicks each picture has and saves that data to local storage, persisting the data.It does all of the things that it accomplishes well. I should describe the purpose and functionality so those that visit my README understand the app",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/photography/bus-mall.png",
+          "images/portfolio/photography/bus-mall2.png"
+        ],
+        "url": "https://github.com/abditake/bus-mall",
+        "technologies": [
+          {
+            "name": "HTML 5",
+            "class": "devicon-html5-plain",
+            "level": "95"
+          },
+          {
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
+          },
+          
+          {
+            "name": "JavaScript",
+            "class": "devicon-javascript-plain",
+            "level": "70"
+          }
+        ]
+      },
+      {
+        "title": "Salmon Cookies",
+        "startDate": "2022",
+        "description": "I built a website called Salmon Cookies . Generates random numbers of customers and cookies sold. Then it displays the cookies sold per hour and at the end shows a total amount of cookies sold for each store.It does all of the things that it accomplishes well. I should describe the purpose and functionality so those that visit my README understand the app",
+        "images": [
+          "images/portfolio/adventure/slamon-cookies.png",
+          "images/portfolio/adventure/salmon-cookies-table.png"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "HTML 5",
+            "class": "devicon-html5-plain",
+            "level": "95"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
           },
+          
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "JavaScript",
+            "class": "devicon-javascript-plain",
+            "level": "70"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code-Fellows",
+        "title": "Full Stack Developer",
+        "years": "02.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "React",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "HTML",
+          "CSS"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Allied Universal",
+        "title": "Security-Guard",
+        "years": "01.2018 - present",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+        
         ]
       }
     ]

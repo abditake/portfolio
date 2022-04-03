@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Abdinasir Yussuf",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Full-Stack Developer" ],
       "social": [
         {
           "name": "github",
@@ -10,8 +10,8 @@
         },
         {
           "name": "Linkedin",
-          "url": "www.linkedin.com/in/abdinasir-y",
-          "class": "fab fa-instagram"
+          "url": "https://linkedin.com/in/abdinasir-y",
+          "class" : "fab fa-linkedin"
         }
       ],
       "image": "headshot.jpg"

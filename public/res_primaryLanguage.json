@@ -1,7 +1,12 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Abdinasir Yussuf. Writing code always seemed like a chore to me but that's only because I never applied/understood what It meant to Problem solve. Problem solving is what push the web to where its at now. Being able to produce a clean and concise piece of code that does exactly what you intend is nothing short of satisfying; however, being able to tackle a problem and solve it...now that's the real reward.",
+      "description": {
+        "one": "As an experienced Software Developer with a focus on JavaScript React, Python, Django, and Node.js, I am currently seeking new opportunities in Junior Dev/Engineering roles, as well as entry-level positions and internships. With two years of industry experience under my belt, I have honed my skills in developing high-quality software solutions that meet the needs of clients and end-users alike.",
+        "two":"Coming from a Somali household, I have always placed a strong emphasis on family values, and this has been reflected in my approach to my work. I have lived in a number of different locations across the United States, including Seattle, WA, and Columbus, OH, spending around seven years in each city. This has given me a broad perspective on different cultures and ways of working, and I am always eager to learn and grow both personally and professionally.",
+        "three":"I am an open and personable individual who is always willing to connect with others in the industry. If you have any opportunities that you think might be a good fit for my skills and experience, please don'\tt hesitate to reach out. I would be honored to explore any potential blessings that may come my way.",
+        "four":"Writing code always seemed like a chore to me but that's only because I never applied/understood what It meant to Problem solve. Problem solving is what pushed the web to where its at now. Being able to produce a clean and concise piece of code that does exactly what you intend is nothing short of satisfying; however, being able to tackle a problem and solve it...now that's the real reward."
+      },
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -97,9 +102,46 @@
     ],
     "experience": [
       {
+        "company": "Valley Medical Center",
+        "title": "Freelance Software Developer/Data Analyst",
+        "years": "09.2022 - Present",
+        "mainTech": [
+          "JavaScript"
+        ],
+        "technologies": [
+          "Excel",
+          "Sharpoint",
+          "Pivot-Tables"
+        ]
+      },
+      {
+        "company": "Allied Universal",
+        "title": "Security-Guard",
+        "years": "09.2022 - present",
+        "mainTech": [
+          "F5 Building"
+        ],
+        "technologies": [
+        
+        ]
+      },
+      {
+        "company": "Searchegg.io",
+        "title": "Software Engineer",
+        "years": "05.2022 - Present",
+        "mainTech": [
+          "JavaScript"
+        ],
+        "technologies": [
+          "TypScript",
+          "JavaScript",
+          "Node.js"
+        ]
+      },
+      {
         "company": "Code-Fellows",
         "title": "Full Stack Developer",
-        "years": "02.2022 - present",
+        "years": "02.2022 - 08.2022",
         "mainTech": [
           "JavaScript"
         ],
@@ -116,7 +158,7 @@
         "title": "Security-Guard",
         "years": "01.2018 - present",
         "mainTech": [
-          ""
+          "Lynden"
         ],
         "technologies": [
         

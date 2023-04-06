@@ -13,9 +13,11 @@ class About extends Component {
     if (this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
       var hello = this.props.resumeBasicInfo.description_header;
-      var about = this.props.resumeBasicInfo.description;
+      var parOne = this.props.resumeBasicInfo.description.one;
+      var parTwo = this.props.resumeBasicInfo.description.two;
+      var parThree = this.props.resumeBasicInfo.description.three;
+      var parFour = this.props.resumeBasicInfo.description.four;
     }
-
     return (
       <section id="about">
         <div className="col-md-12">
@@ -81,7 +83,21 @@ class About extends Component {
                     <span className="wave">{hello} :) </span>
                     <br />
                     <br />
-                    {about}
+                    <div>
+                    {parOne}
+                    </div>
+                    <br/>
+                    <div>
+                      {parTwo}
+                    </div>
+                    <br/>
+                    <div>
+                      {parThree}
+                    </div>
+                    <br/>
+                    <div>
+                    {parFour}
+                    </div>
                   </div>
                 </div>
               </div>

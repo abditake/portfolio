@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Abdinasir Yussuf",
-      "titles": [ "Full-Stack Developer" ],
+      "titles": [ "Full-Stack Software Developer" ],
       "social": [
         {
           "name": "github",
@@ -19,6 +19,27 @@
     "skills": {
       "icons": [
         {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "95"
+        }
+        ,
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "95"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
           "name": "HTML 5",
           "class": "devicon-html5-plain",
           "level": "95"
@@ -27,19 +48,7 @@
           "name": "CSS 3",
           "class": "devicon-css3-plain",
           "level": "95"
-        },
-        
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
         }
-
       ]
     }
   }

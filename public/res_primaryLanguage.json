@@ -20,10 +20,13 @@
         "startDate": "2022",
         "description": "webpage that takes user inputs from a series of prompts that generates a creative story from that input. This will solve the users boredom by engaging their brain in a nice story driven rpg. The user will get inspiration from exercising their creativity.",
         "images": [
+          "images/portfolio/animal-shelter/madlibs(landing).webp",
           "images/portfolio/animal-shelter/main page final project.png",
+          "images/portfolio/animal-shelter/madlibs(adventurestory).webp",
+          "images/portfolio/animal-shelter/madlibs(sci-fi).jpg",
           "images/portfolio/animal-shelter/stored-stories-page.png"
         ],
-        "url": "",
+        "url": "https://github.com/team-Beverly-Hills/word-game-app",
         "technologies": [
           {
             "name": "HTML 5",
@@ -44,40 +47,12 @@
         ]
       },
       {
-        "title": "Busmall",
+        "title": "Where In The World",
         "startDate": "2022",
-        "description": "I built a website called Bus-Mall . Generates random combination of pictures to choose from. Then it displays the total views and clicks each picture has and saves that data to local storage, persisting the data.It does all of the things that it accomplishes well. I should describe the purpose and functionality so those that visit my README understand the app",
+        "description": "I developed a dynamic webpage that integrated a third-party API to facilitate the search and presentation of places of interest. The site enabled users to save locations, and through integration with MongoDB, their selections were securely and persistently stored. Additionally, I implemented Auth0 to ensure that user authentication was both simple and secure. By parsing data in the backend, I was able to ensure that the data presented to users was accurate and easy to comprehend.",
         "images": [
-          "images/portfolio/photography/bus-mall.png",
-          "images/portfolio/photography/bus-mall2.png"
-        ],
-        "url": "https://github.com/abditake/bus-mall",
-        "technologies": [
-          {
-            "name": "HTML 5",
-            "class": "devicon-html5-plain",
-            "level": "95"
-          },
-          {
-            "name": "CSS 3",
-            "class": "devicon-css3-plain",
-            "level": "95"
-          },
-          
-          {
-            "name": "JavaScript",
-            "class": "devicon-javascript-plain",
-            "level": "70"
-          }
-        ]
-      },
-      {
-        "title": "Salmon Cookies",
-        "startDate": "2022",
-        "description": "I built a website called Salmon Cookies . Generates random numbers of customers and cookies sold. Then it displays the cookies sold per hour and at the end shows a total amount of cookies sold for each store.It does all of the things that it accomplishes well. I should describe the purpose and functionality so those that visit my README understand the app",
-        "images": [
-          "images/portfolio/adventure/slamon-cookies.png",
-          "images/portfolio/adventure/salmon-cookies-table.png"
+          "images/portfolio/adventure/Landing_page(signedIN).webp",
+          "images/portfolio/adventure/About_page.webp"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -98,26 +73,50 @@
             "level": "70"
           }
         ]
+      },
+      {
+        "title": "RAPCON",
+        "startDate": "2022",
+        "description": "Developed a backend application that reports real-time flight status to the users, leveraging the Airlabs API. To enable fast data transfer between servers, the application utilized the socket.io framework and integrated with Twilio to deliver flight updates at regular intervals. The application architecture was designed with a scalable and modular approach, allowing for seamless migration to AWS in the future. The development process followed a Test Driven Development (TDD) approach, and comprehensive unit tests were created to ensure the application's reliability and functionality.",
+        "images": [
+          "images/portfolio/photography/rapcon(flight tracker).webp",
+          "images/portfolio/photography/rapcon(paylod).jpg",
+          "images/portfolio/photography/twilio.webp"
+        ],
+        "url": "https://github.com/RAPCONs/RAPCON",
+        "technologies": [
+          {
+            "name": "Node",
+            "class": "devicon-nodejs-plain",
+            "level": "95"
+          },
+          {
+            "name": "JavaScript",
+            "class": "devicon-javascript-plain",
+            "level": "70"
+          }
+        ]
       }
     ],
     "experience": [
       {
         "company": "Valley Medical Center",
         "title": "Freelance Software Developer/Data Analyst",
-        "years": "09.2022 - Present",
+        "years": "Sept-2022 - Present",
         "mainTech": [
-          "JavaScript"
+          "PowerQuery"
         ],
         "technologies": [
           "Excel",
           "Sharpoint",
-          "Pivot-Tables"
+          "Pivot-Tables",
+          "Python"
         ]
       },
       {
         "company": "Allied Universal",
         "title": "Security-Guard",
-        "years": "09.2022 - present",
+        "years": "Nov-2022 - Present",
         "mainTech": [
           "F5 Building"
         ],
@@ -128,12 +127,13 @@
       {
         "company": "Searchegg.io",
         "title": "Software Engineer",
-        "years": "05.2022 - Present",
+        "years": "May-2022 - Present",
         "mainTech": [
-          "JavaScript"
+          "TypeScript"
         ],
         "technologies": [
-          "TypScript",
+          "TypeScript",
+          "React",
           "JavaScript",
           "Node.js"
         ]
@@ -141,7 +141,7 @@
       {
         "company": "Code-Fellows",
         "title": "Full Stack Developer",
-        "years": "02.2022 - 08.2022",
+        "years": "Feb-2022 - Aug-2022",
         "mainTech": [
           "JavaScript"
         ],
@@ -156,7 +156,7 @@
       {
         "company": "Allied Universal",
         "title": "Security-Guard",
-        "years": "01.2018 - present",
+        "years": "Jan-2018 - Present",
         "mainTech": [
           "Lynden"
         ],
